@@ -14,25 +14,8 @@
 (\.|^)getbeamer\.com$
 (\.|^)lambda-url\.us-east-1\.on\.aws$
 
-# Apple
-(\.|^)apps.apple\.com$
-(\.|^)cdn-apple\.com$
-(\.|^)deimos3.apple\.com$
-(\.|^)digicert\.com$
-(\.|^)gg.*apple\.com$
-(\.|^)mesu.apple\.com$
-(\.|^)mzstatic\.com$
-(\.|^)push.apple\.com$
-(\.|^)symcd\.com$
-(\.|^)[s1-5\.]*?symcb\.com$
 
-# Bittorrent
-(\.|^)xyz$
 
-# Facebook
-(\.|^)accountkit\.com$
-(\.|^)fb(|cdn|sbx)\.(com|me|net|watch)$
-(\.|^)messenger\.com$
 
 # HBBTV
 ^hbbtv\.(3sat|kabeleins|qvc|rtl2|sat1|sixx|superrtl)\.de$
@@ -72,8 +55,7 @@
 (^|\.)samsungrm\.net$
 ^log-[0-3]+\.samsungacr\.com$
 
-# Steam Desktop App (Gaming)
-^ext[0-9]?-iad[0-9]?\.steamserver\.net$
+
 
 # Suspected Virus Harboring websites
 (\.|^)ahoravideo.*$
@@ -90,24 +72,8 @@
 (\.|^)sc-cdn\.net$
 (\.|^)snap(-dev|ads|chat|kit)\.(c|com|net)$
 
-# Spotify
-(\.|^)log[0-9]*\.spotify\.com$
-(\.|^)pixel(|-static)\.spotify\.com$
 
-# TikTok
-(\.|^)amemv\.com$
-(\.|^)bdurl\.com$
-(\.|^)bytecdn\.cn$
-(\.|^)bytedance\.map\.fastly\.net$
-(\.|^)byteimg\.com$
-(\.|^)douyin\.com$
-(\.|^)ixigua(|video)\.com$
-(\.|^)muscdn\.com$
-(\.|^)musical\.ly$
-(\.|^)pstatp\.com$
-(\.|^)snssdk\.com$
-(\.|^)tiktok[cdnv]*\.com$
-(\.|^)toutiao[cloud]*\.(com|net)$
+
 
 # Tinder
 (\.|^)[go]*tinder[sparks]*\.com$
